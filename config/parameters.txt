@@ -1,0 +1,5 @@
+board_width 8
+board_height 6
+square_size 25
+image_directory ../testimages/input
+output_directory ../testimages/output
