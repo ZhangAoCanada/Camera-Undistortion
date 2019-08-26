@@ -18,16 +18,16 @@ $git clone https://github.com/ZhangAoCanada/Camera-Undistortion
 $./calibration_image/
 ```
 
-### 3. Remove the directory "build"
-```
-$sudo rm -r ./build
-```
-
-### 4. Open the configure file and do the changes if neccesary
+### 3. Open the configure file and do the changes if neccesary
 ```
 $nano ./config/parameters.txt
 ```
 Note: change the diretory of the images that are about to be undistorted correctly. Also, please specify the output directory.
+
+### 4. Remove the directory "build"
+```
+$sudo rm -r ./build
+```
 
 ### 5. Build the whole project
 ```
