@@ -42,7 +42,7 @@ $./CalibrateImages recalibrate
 ```
 
 ### 6. Calibrate another image directory
-Change the input and output directory as STEP 3, then run
+Change the input and output directories as STEP 3, then run
 ```
 $./CalibrateImages
 ```
