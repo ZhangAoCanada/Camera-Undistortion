@@ -1,2 +1,0 @@
-/usr/bin/ar qc libCamCalibLib.a  CMakeFiles/CamCalibLib.dir/camera_calibration.cpp.o
-/usr/bin/ranlib libCamCalibLib.a

@@ -1,2 +1,0 @@
-/Users/aozhang/Desktop/camera_calibration_test/lib/libCamCalibLib.a
-/Users/aozhang/Desktop/camera_calibration_test/bin/CalibrateImages
