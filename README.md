@@ -51,6 +51,6 @@ $./CalibrateImages
 ```
 
 ### Optional varifying step
-After first time running it,go to the directory "calibration_para_saved" to find out the cameraMatrix and distCoeffs have been written in "libration_para.yml".
+After first time running it,go to the directory "calibration_para_saved" to find out whether the cameraMatrix and distCoeffs have been written in "libration_para.yml".
 
 
