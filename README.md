@@ -32,6 +32,7 @@ Note: change the diretory of the images that are about to be undistorted correct
 ### 5. Build the whole project
 ```
 $mkdir build
+$cd build
 $cmake ..
 $make && make install
 ```
