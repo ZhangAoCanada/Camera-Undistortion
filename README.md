@@ -24,12 +24,7 @@ $nano ./config/parameters.txt
 ```
 Note: change the diretory of the images that are about to be undistorted correctly. Also, please specify the output directory.
 
-### 4. Remove the directory "build"
-```
-$sudo rm -r ./build
-```
-
-### 5. Build the whole project
+### 4. Build the whole project
 ```
 $mkdir build
 $cd build
@@ -37,7 +32,7 @@ $cmake ..
 $make && make install
 ```
 
-### 6. Run calibration
+### 5. Run calibration
 ```
 $cd bin
 ```
@@ -45,7 +40,9 @@ If you are running it first time:
 ```
 $./CalibrateImages recalibrate
 ```
-If not
+
+### 6. Calibrate another image directory
+Change the input and output directory as STEP 3, then run
 ```
 $./CalibrateImages
 ```
